@@ -2,9 +2,11 @@
 
 Este projeto é uma aplicação web simples que permite criptografar e descriptografar textos para que você possa trocar mensagens secretas com outras pessoas que conhecem o método de criptografia. 🔐
 
-<img width="1468" alt="Home" src="https://github.com/user-attachments/assets/eb4a429a-6d90-498e-8fea-fef7078b8f58">
-<img width="1468" alt="Digitando" src="https://github.com/user-attachments/assets/4c54fcb8-9aa1-4db2-950f-255edc3020e5">
-<img width="1468" alt="Funcionando" src="https://github.com/user-attachments/assets/0fdc19bb-7ef3-466a-9a36-ace9dc55ffaa">
+<p align="center">
+<img alt="Home" src="https://github.com/user-attachments/assets/eb4a429a-6d90-498e-8fea-fef7078b8f58" style="width: 800px;" />
+<img alt="Digitando" src="https://github.com/user-attachments/assets/4c54fcb8-9aa1-4db2-950f-255edc3020e5" style="width: 400px;" />
+<img alt="Funcionando" src="https://github.com/user-attachments/assets/0fdc19bb-7ef3-466a-9a36-ace9dc55ffaa" style="width: 400px;" />
+</p>
 
 ## ✨ Descrição
 
@@ -30,3 +32,7 @@ A criptografia utilizada aqui é baseada na substituição de letras por palavra
 - `"gaitober"` ➡️ `"gato"`
 
 ## 🛠️ Tecnologias Utilizadas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
